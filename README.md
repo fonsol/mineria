@@ -1,0 +1,2 @@
+# mineria
+minar cryptomoneda 
