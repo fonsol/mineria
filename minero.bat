@@ -1,3 +1,3 @@
-@echo off
-xmrig --nslookup pool.minexmr.com:4444 -u 88d1fbY59x9CauZ55tMCJ2V4gK3geqibPiHHHYjdrZGJHf1TQKuckbvCcf8TPH1VBdS7QLidJKmav7eDuHBiwz3LNgcrR63 -p Goodata -a rx/0 -k 
+echo off
+EthDcrMiner64.exe -epool eth-eu2.nanopool.org:9999 -ewal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba.Godata -eworker rig1 -epsw x -mode 1 -r 1 -dbg -1 -mport 0 -etha 0 -retrydelay 3 -ftime 45 -tt 70 -ttli 79 -tstop 82 -fanmin 30
 pause
